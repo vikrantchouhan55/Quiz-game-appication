@@ -1,0 +1,1 @@
+Java Quiz Application is a desktop-based application developed using Java . The project provides a multiple-choice quiz system with button-based user input and a 15-second time limit for each question. The quiz is divided into multiple rounds and automatically moves to the next question when the time expires.
